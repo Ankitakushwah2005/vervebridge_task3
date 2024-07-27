@@ -1,0 +1,2 @@
+SELECT _unit_id,_golden FROM football.`football-scenarios-dfe-832307`
+where _golden = "False"
