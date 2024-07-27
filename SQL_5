@@ -1,0 +1,2 @@
+SELECT * FROM football.`football-scenarios-dfe-832307`
+where antecedent = "Pass"
