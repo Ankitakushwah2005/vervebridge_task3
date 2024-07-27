@@ -1,0 +1,2 @@
+SELECT * FROM football.`football-scenarios-dfe-832307`
+WHERE _last_judgment_at LIKE '11/19/15%';
